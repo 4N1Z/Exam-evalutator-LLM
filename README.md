@@ -1,7 +1,7 @@
-# Smart Learning Quiz
+# Smart Learning Platform
 
 ## Overview
-The Smart Learning Quiz is an interactive quiz application designed for 10th-grade students. It generates multiple-choice questions based on a specified topic and evaluates the answers provided by the students. The application uses OpenAI's API to generate questions and provide feedback.
+The Smart Learning Platform is an interactive quiz application designed for 10th-grade students. It generates multiple-choice questions based on a specified topic and evaluates the answers provided by the students. The application uses OpenAI's API to generate questions and provide feedback.
 
 ## Features
 
